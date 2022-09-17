@@ -1,0 +1,33 @@
+body{
+background-image:url('html/g.jpg');
+background-repeat: no-repeat;
+background-attachment:fixed;
+background-size:100% 100%;
+}
+.div1 {
+    margin: 0 auto;
+    width: 500px;
+    height: 150px;
+    border: #EEE3CB double 10px;
+	text-align: center;
+	font-family: Impact;
+	font-size: 45px
+    }
+.dd2 {
+	text-align: center;
+	font-family:Impact;
+	font-size: 20px
+    }
+
+.demo1 {
+ transform:none;
+ border-radius: 20px;
+ background-color:#AD8B73;
+ height: 410px;
+ width: 340px;
+ color: #FFF;
+ margin: 50px auto;
+ text-align: center;
+ box-shadow: 5px 8px 10px 10px black; 
+ box-shadow: 5px 8px 10px 10px black;
+}
